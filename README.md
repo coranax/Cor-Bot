@@ -1,2 +1,6 @@
 # Cor-Bot
-A bot made for use with Guild Wars 2
+A Discord bot made for use with Guild Wars 2.
+
+~Work In Progress~
+
+-coranax, 3/2018
